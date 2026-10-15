@@ -1,0 +1,6 @@
+﻿sr.no,device name,ip address,email address
+1,pc1,192.168.1.101,alert@example.com
+2,pc2,192.168.1.16,alert@example.com
+3,pc3,192.168.1.15,alert@example.com
+4,pc4,192.168.1.10,alert@example.com
+5,pc5,192.168.1.1,alert@example.com
