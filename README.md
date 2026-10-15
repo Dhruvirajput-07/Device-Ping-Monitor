@@ -141,7 +141,6 @@ RECOVERY: Device Up - Office-PC-01
 🛠️ TECHNOLOGIES USED
 
 💻 PowerShell
-📡 ICMP Ping
 📄 CSV File Handling
 📧 Gmail SMTP
 ⚙️ Windows Task Scheduler
